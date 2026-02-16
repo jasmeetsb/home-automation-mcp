@@ -4,7 +4,6 @@ This is a stateless mock API that simulates NEST thermostat operations
 for testing the MCP server without requiring real NEST API credentials.
 """
 
-import json
 from datetime import datetime, timedelta
 from typing import Any
 
